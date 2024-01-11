@@ -26,7 +26,7 @@ For Peatio Bitcoincash plugin integration you need to do the following steps:
 
 1. Add peatio-bitcoincash gem into your Gemfile.plugin
 ```ruby
-gem 'peatio-bitcoincash', '~> 0.1.0'
+gem 'peatio-bitcoincash', '~> 2.6.1'
 ```
 
 2. Run `bundle install` for updating Gemfile.lock
